@@ -46,13 +46,19 @@ This subject analysis is an interesting interlude in our work
 
 Next, we seek to assign each article a score of either "Horse Race" (HR) or "Issue- Based " (IB) . To do this, we analyze all the words in the article to identify those that appear in our lists of nouns or adjectives previously classified as HR or IB. For example, if the word "survey ," classified as HR, appears three times in an article, the article is awarded three points for this term.
 Each article thus obtains four distinct scores:
+ 
   •	A score named IB ,
+  
   •	A score named HR ,
+  
   •	adjective score IB ,
+  
   •	HR adjective score .
   
 In order to compensate for the imbalance between the number of terms classified in each category (142 IB nouns against 101 HR nouns, and 222 IB adjectives against 97 HR adjectives), we apply correction factors :
+  
   •	The score of HR names is multiplied by 142/101 ,
+  
   •	That of HR adjectives by 222/97 .
   
 By summing the corrected noun and adjective scores, we obtain the overall HR and IB scores for each article. These scores are then normalized by dividing them by the total number of words in the article, to avoid a long article automatically having a higher score than a short one.
