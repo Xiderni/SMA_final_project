@@ -9,9 +9,9 @@ Here we can find our main results
 
 # Titre 1
 
-# Methodology
+# II) Methodology
 
-## Extraction and pre-processing
+## II.A) Extraction and pre-processing
 
 First of all, we collected on Factiva all the articles from 09/06/2024 to 07/07/2024 containing at least once the word "legislative election".
 These articles come from newspapers with three political orientations:
@@ -23,13 +23,13 @@ From Factiva we extract PDF files of all the articles, a first notebook codes_da
 
 **Part A) Data import and small pre-processing** of the notebook **article_analysis.ipynb** allows you to bring these files together in a single dataframe while adding two columns, the political orientation and the type of newspaper (daily/weekly). This is also an opportunity to do a pre-processing to remove the few parasitic lines (name of the newspaper, date of extraction, article identifier) due to the presentation format of the articles on Factiva)
 
-## TOP 500 adjectives and nouns and classification
+## II.B) TOP 500 adjectives and nouns and classification
 
 For each political orientation, in part **B) Word Count**, we use *spaCy* and the *fr_core_news_sm model* to extract the list of most used nouns and adjectives. For each political orientation, we create a csv with the list of the 500 most common nouns and 500 adjectives. We then manually assign each word the classification **'Issue Based ' (IB)** or **'Horse based ' (HR)**, we put nothing if it does not correspond to any category, which is regular.
 The classified tables can be viewed on GitHub in the **data/TOP 500** repertory
 In total we have: **142 IB nouns** against **101 HR nouns**, and **222 IB adjectives** against **97 HR adjectives**. The rest are classified as neutral.
 
-## Topic modeling
+## II.C) Topic modeling
 
 *gensim.models* library that we run on the corpus of articles from left-leaning newspapers, articles from right-leaning newspapers, and centrist newspapers. We also run the algorithm on all articles from daily newspapers and all articles from weeklies. The results will then be analyzed.
 The code for this step is in part **D) Topic analysis** . Here are the parameters we use for our LDA:
@@ -39,7 +39,7 @@ The code for this step is in part **D) Topic analysis** . Here are the parameter
  
 This subject analysis is an interesting interlude in our work
 
-## Classifying articles
+## II.D) Classifying articles
 
 Next, we seek to assign each article a score of either "Horse Race" (HR) or "Issue- Based " (IB) . To do this, we analyze all the words in the article to identify those that appear in our lists of nouns or adjectives previously classified as HR or IB. For example, if the word "survey ," classified as HR, appears three times in an article, the article is awarded three points for this term.
 Each article thus obtains four distinct scores:
@@ -60,7 +60,7 @@ For each political orientation, we generate an intermediate CSV in which, per ar
 
 The code for this processing can be found in section **E.1 – Calculating IB and HR scores** of the notebook.
 
-## Plotting curves
+## II.E) Plotting curves
 
 We can derive some statistics from the score given to each article.
  
@@ -74,7 +74,7 @@ We plotted a week where each point represents a week to achieve a smoothing effe
 All results and figures produced are available in the results repertory **SMA_final_project/Results/**
 
 
-# Results
+# III) Results
 In our analysis, we decided to extract the most common 300 adjectives and nouns, divided between HR (horse race) and IB (issue based) terms. The most common HR nouns were "pourcent", "élection" and "juin". The most common IB nours were "euro", "programme" and "marché". 
 The most common HR adjectives were "politique", "gauche" and "éxecutif", with "politique" being by large the most common one (around 10 times more used than "gauche"). As per IB adjectives, the most used were "européen", "public" and "social".
 A much greater variety in HR nouns and adjectives can be noted, given the much higher usage of such terms in media during the month of June 2024. 
