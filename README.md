@@ -84,7 +84,7 @@ All results and figures produced are available in the results repertory **SMA_fi
 
 
 # III) Results
-In our analysis, we decided to extract the most common 300 adjectives and nouns, divided between HR (horse race) and IB (issue based) terms. The most common HR nouns were "pourcent", "élection" and "juin". The most common IB nours were "euro", "programme" and "marché". 
+As previously explained, in our analysis we decided to extract the most common 500 adjectives and nouns, divided between HR (horse race) and IB (issue based) terms. The most common HR nouns were "pourcent", "élection" and "juin". The most common IB nours were "euro", "programme" and "marché". 
 The most common HR adjectives were "politique", "gauche" and "éxecutif", with "politique" being by large the most common one (around 10 times more used than "gauche"). As per IB adjectives, the most used were "européen", "public" and "social".
 A much greater variety in HR nouns and adjectives can be noted, given the much higher usage of such terms in media during the month of June 2024. 
 
