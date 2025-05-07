@@ -15,8 +15,11 @@ Here we can find our main results
 
 First of all, we collected on Factiva all the articles from 09/06/2024 to 07/07/2024 containing at least once the word "legislative election".
 These articles come from newspapers with three political orientations:
+  
   •	From the center: Le Monde (daily), La Tribune du Dimanche (weekly), La Croix, (daily), 20 Minutes (daily): **a total of 679 articles**
+  
   •	From left: Libération (daily), Le Nouvel Obs (weekly), L'Humanité (daily), Marianne (weekly): **127 articles in total**
+  
   •	From the right: Le Figaro (daily), Le Point (weekly), Valeurs Actuelles (weekly), L'Express (weekly): **202 articles in total**
 
 From Factiva we extract PDF files of all the articles, a first notebook codes_data_ formating.ipynb allows us to convert these PDFs of several hundred articles into CSV files, by political orientation and by round (T1 for first round of elections, T2 for second round). They are available in the **SMA_final_project /data/ data_articles** folder and are named: articles_extraits_T1_centre.csv, articles_extraits_T2_centre.csv, articles_extraits_T1_droite.csv, articles_extraits_T2_droite.csv, articles_extraits_T1_gauche.csv, articles_extraits_T2_gauche.csv.
