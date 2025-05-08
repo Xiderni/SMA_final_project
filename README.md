@@ -107,6 +107,7 @@ After having calculated the corrected HR and IB scores of the nouns and adjectiv
 
 From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles. 
 
+However, great differences between newspapers can be noticed. It could be possible to argue that the HR/IB usage difference depends more on the newspapers themselves and their style of reporting than on the media alignment. Daily newspapers favour HR terms, as opposed to weekly releases.  
 
 **gras**
 
