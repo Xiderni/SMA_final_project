@@ -12,6 +12,20 @@ Here we can find our main results
 
 # Titre 1
 
+# Introduction
+
+
+
+
+France's 2024 snap legislative elections garnered significant national and worldwide attention due to the rarity of the event, the risks at play and it's sudden 
+announcement that resulted in heightened political polarisation. The elections, which were prompted by President Emmanuel Macron's decision to dissolve the National Assembly, became the primary topic of contention in the nation's political climate, with competing perspectives erupting across all ideological parties (Chabal & Behrent, 2024).The election was a crucial turning point in modern French politics, a the election mainly revealed the increasing prominence of both far-left and far-right groups, particularly the newly formed Nouveau Front Populaire created to combat the extremism and dominance of the Rassemblement National (Ivaldi, 2024).  Given the topic's importance to both political science and media studies, our group has decided to study how French national media outlets from an array of political orientations framed the 2024 snap elections, paying particular attention to the popular use of strategic game framing.
+The June 9 to July 7, 2024, timeframe was chosen for a number of reasons: it encompasses the entire duration of the snap election campaign, from the dissolution of the French National Assembly to the last round of voting; it is a period of high political importance, enabling the identification of framing trends during highly consequential electoral pressure; and it offers a targeted timeframe where media narratives are likely to be most concentrated and politically consequential.
+The media outlets included for this study span a broad range of ideologies and were picked because of their national significance, their ability to shape political discourse, and the variety of content types they provide.
+Libération, Le Nouvel Observateur, L'Humanité, Le Monde Diplomatique, and Alternatives Économiques were picked to represent the left-leaning media outlets.  Le Monde, Les Échos, 20 Minutes, La Tribune, and La Croix were the examples for center-leaning media. And finally  Valeurs Actuelles, Le Figaro, L'Express, and Le Point for right-leaning.  These publications offer a thorough and representative cross-section of French political journalism during the election season through publishing frequently, and in a variety of formats, including news reports, analysis pieces, interviews, editorials, features, and profiles, in addition to having varying editorial stances.  They are essential to our inquiry because of their impact on public debate and because of their large audience, which guarantees that the framing techniques used represent the mainstream media landscape (Lecheler & De Vreese, 2012).
+Our study seeks to provide understanding on the connection between ideological polarisation and political media framing, specifically in the modern French environment.  We aim to analyse how strategic game framing, which prioritises focus on competition and electoral manoeuvring over substantive policy focus, may have influenced voter perceptions and the larger political narrative by concentrating on well-known national media outlets with distinct editorial identities.  Through doing this, we can identify the potential biases present in these outlets' reporting approaches as well as their persuasive power.
+# Literature Review
+
+
 # II) Methodology
 
 ## II.A) Extraction and pre-processing
@@ -108,6 +122,9 @@ After having calculated the corrected HR and IB scores of the nouns and adjectiv
 From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles. 
 
 However, great differences between newspapers can be noticed. It could be possible to argue that the HR/IB usage difference depends more on the newspapers themselves and their style of reporting than on the media alignment. Daily newspapers favour HR terms, as opposed to weekly releases.  
+
+
+# Bibliography
 
 **gras**
 
