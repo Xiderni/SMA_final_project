@@ -152,7 +152,7 @@ We get only 4 Horse Race subjects (Topic 5, 8, 10, 11) and 8 Issue Based topics 
 
 **In conclusion, it seems that newspapers favor horse race articles, a trend more marked in dailies than weeklies. From a political point of view, this type of article is used more by left-wing newspapers, followed by centrists and then right-wing papers. These observations are reinforced by topic analysis.**
 
-# Limitations
+# IV) Limitations
 
 While our study provides useful insights into how French media framed the 2024 snap legislative elections, it’s important to acknowledge several limitations that shaped the scope and interpretation of our findings. These reflect the realities of working on a class-based project and the necessary decisions we made to balance depth, scale, and feasibility.
 
