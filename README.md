@@ -99,11 +99,13 @@ A much greater variety in HR nouns and adjectives can be noted, given the much h
 
 ![top_300_nouns_IB](https://github.com/user-attachments/assets/545dc5ea-a234-4e4f-8d98-9810ab80f745)
 
+After having calculated the corrected HR and IB scores of the nouns and adjectives, we normalize them by dividing them by the total number of words in the article, to avoid a long article automatically having a higher score than a short one. With the data obtained, we calculate the HR/IB ratio and we trace the evolution of the score in the election period visualized as curves for left wing, right wing and centre-aligned media. 
 
+![evolution_IB_HR](https://github.com/user-attachments/assets/a677c682-4955-46f7-91c1-59b43dd09213)
 
+![Average IB HR by political orientation](https://github.com/user-attachments/assets/03bf0dfa-73c5-4a14-a625-c78cc69d5f7a)
 
-
-
+From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles. 
 
 
 **gras**
