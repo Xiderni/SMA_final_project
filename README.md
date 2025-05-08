@@ -3,7 +3,7 @@
 
 # Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
 
-A research project for Social Media Analysis By Elina Baudier, Raphaël Caille,  Davide Ciuffini, Emma De Montis, Xiaoyu Liu
+A research project for Social Media Analysis By Elina Baudier, Raphaël Caille,  Davide Ciuffini, Emma De Montis, Xiaoyu Liu, Bartosz Hoffmann
 
 # Introduction
 
@@ -149,6 +149,10 @@ For weekly articles, here is the topics extraction :
 ![WEEKLY_12](https://github.com/user-attachments/assets/ccb6eeb4-1d51-4180-b137-71d3ecc0cc62)
 
 We get only 4 Horse Race subjects (Topic 5, 8, 10, 11) and 8 Issue Based topics ( Topic 1, 2, 3, 4, 6, 7, 9, 12)
+
+The temporal evolution of strategic framing in connection to significant campaign milestones is another facet that merits attention.  Interestingly, HR-centric framing was most prevalent in times of increased uncertainty, like the days leading up to each voting round and the immediate aftermath of Macron's dissolution declaration.  This temporal trend implies that during crucial decision windows, media outlets frequently magnify political drama and conjecture, which could heighten voter urgency or anxiety.  It is also consistent with last-minute coalition formation and electoral manoeuvring that the increase in HR language immediately before the second round occurs, demonstrating the press's preference for tactics over content when the stakes are high.
+
+It's interesting to note that our dataset revealed substantial heterogeneity within the left, centre, and right alignments even though we aggregated findings by these alignments.  Le Figaro and Valeurs Actuelles, for instance, both lean right, but they used IB frame differently.  Given this internal heterogeneity, editorial decisions and audience targeting might have an equal impact to political stance.  In order to boost reader engagement through drama and suspense, some outlets may use HR framing more than for ideological emphasis.
 
 **In conclusion, it seems that newspapers favor horse race articles, a trend more marked in dailies than weeklies. From a political point of view, this type of article is used more by left-wing newspapers, followed by centrists and then right-wing papers. These observations are reinforced by topic analysis.**
 
