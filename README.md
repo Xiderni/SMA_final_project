@@ -12,7 +12,7 @@ Here we can find our main results
 
 # Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
 
-
+A research project for Social Media Analysis By Elina Baudier
 
 # Introduction
 
@@ -128,9 +128,15 @@ However, great differences between newspapers can be noticed. It could be possib
 
 # Bibliography
 
-**gras**
+Chabal, Emile, and Michael C. Behrent. 2024. “The Deluge: France’s 2024 Legislative Elections.” Modern & Contemporary France 32 (3): 329–37. https://doi.org/10.1080/09639489.2024.2381787.
 
-*italic*
+Ivaldi, Gilles. 2024. “A Tipping Point for Far-Right Populism in France.” ECPS Report: 2024 European Parliament Elections under the Shadow of Rising Populism, 165–177. https://www.populismstudies.org/a-tipping-point-for-far-right-populism-in-france/
+
+Lecheler, Sophie, and Claes H. de Vreese. 2012. “News Framing and Public Opinion: A Mediation Analysis of Framing Effects on Political Attitudes.” Journalism & Mass Communication Quarterly 89 (2): 185–204. https://doi.org/10.1177/1077699011430064
+
+Schmuck, Desirée, Raffael Heiss, Jörg Matthes, Sven Engesser, and Frank Esser. 2017. “Antecedents of Strategic Game Framing in Political News Coverage.” Journalism 18 (8): 937–955. https://doi.org/10.1177/1464884916648098
+
+Shehata, Adam. 2014. “Game Frames, Issue Frames, and Mobilization: Disentangling the Effects of Frame Exposure and Motivated News Attention on Political Cynicism and Engagement.” International Journal of Public Opinion Research 26 (2): 157–174. https://doi.org/10.1093/ijpor/edt034
 
 
 
