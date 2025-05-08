@@ -157,6 +157,9 @@ For weekly articles, here is the topics extraction :
 
 We get only 4 Horse Race subjects (Topic 5, 8, 10, 11) and 8 Issue Based topics ( Topic 1, 2, 3, 4, 6, 7, 9, 12)
 
+These topic analysis results are coherent with the first analysis, right-wing news paper tends to publish less Horse Race articles than centre and left (which used the more), even if the diffenrences are small.
+
+
 
 
 # Bibliography
