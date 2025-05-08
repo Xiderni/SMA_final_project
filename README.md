@@ -158,6 +158,12 @@ For weekly articles, here is the topics extraction :
 
 We get only 4 Horse Race subjects (Topic 5, 8, 10, 11) and 8 Issue Based topics ( Topic 1, 2, 3, 4, 6, 7, 9, 12)
 
+**In conclusion, it seems that newspapers favor horse race articles, a trend more marked in dailies than weeklies. From a political point of view, this type of article is used more by left-wing newspapers, followed by centrists and then right-wing papers. These observations are reinforced by topic analysis.**
+
+**However, this conclusion needs to be qualified. Our corpus includes a majority of weeklies among right-wing newspapers, which are more likely to publish issue-based articles. This creates a structural bias. Ideally, we should have had an equivalent number of articles from dailies and weeklies for each political orientation (left, center, right). Factiva was unable to achieve this balanced distribution, as the platform contains far more right-wing weeklies than right-wing dailies - an imbalance that is less prevalent for centrist and left-wing newspapers. Attempting to impose strict parity between newspaper types and orientations would have reduced the sample size to the point of compromising the analysis.**
+
+
+
 # Bibliography
 
 Chabal, Emile, and Michael C. Behrent. 2024. “The Deluge: France’s 2024 Legislative Elections.” Modern & Contemporary France 32 (3): 329–37. https://doi.org/10.1080/09639489.2024.2381787.
