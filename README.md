@@ -124,7 +124,7 @@ After having calculated the corrected HR and IB scores of the nouns and adjectiv
 
 ![Average IB HR by political orientation](https://github.com/user-attachments/assets/03bf0dfa-73c5-4a14-a625-c78cc69d5f7a)
 
-From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles. 
+From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles and this ratio is more present . 
 
 On topics analysis, we get the same issue.
 
@@ -141,6 +141,7 @@ For right wing topics analysis above, 5 HR Topics (2, 6, 7, 8 and 12) but 6 Issu
 For left wing topics analysis above, We get 8 Horse Race topics (2, 3, 4, 6, 8, 10, 11, 12) and we get three issue based topics (1, 5, 7)
 
 
+These topic analysis results are coherent with the first analysis, right-wing news paper tends to publish less Horse Race articles than centre and left (which used the more), even if the diffenrences are small.
 
 
 However, great differences between newspapers can be noticed. It could be possible to argue that the HR/IB usage difference depends more on the newspapers themselves and their style of reporting than on the media alignment. Daily newspapers favour HR terms, as opposed to weekly releases (visible in **Results/Ratio HR on IB by newspaper**).  
@@ -156,11 +157,6 @@ For weekly articles, here is the topics extraction :
 ![WEEKLY_12](https://github.com/user-attachments/assets/ccb6eeb4-1d51-4180-b137-71d3ecc0cc62)
 
 We get only 4 Horse Race subjects (Topic 5, 8, 10, 11) and 8 Issue Based topics ( Topic 1, 2, 3, 4, 6, 7, 9, 12)
-
-These topic analysis results are coherent with the first analysis, right-wing news paper tends to publish less Horse Race articles than centre and left (which used the more), even if the diffenrences are small.
-
-
-
 
 # Bibliography
 
