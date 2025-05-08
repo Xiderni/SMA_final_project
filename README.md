@@ -126,7 +126,24 @@ After having calculated the corrected HR and IB scores of the nouns and adjectiv
 
 From the obtained representation we notice a consistent predilection for HR terms in the case of left wing, right wing and centre-aligned media. Centre-aligned media lead the table for what concerns the usage of both HR and IB terms. The average HR/IR ratio indicates a prevalence of HR oriented articles. 
 
-However, great differences between newspapers can be noticed. It could be possible to argue that the HR/IB usage difference depends more on the newspapers themselves and their style of reporting than on the media alignment. Daily newspapers favour HR terms, as opposed to weekly releases (visible in **XXXX**).  
+On topics analysis, we get the same issue.
+
+![CENTRE_12](https://github.com/user-attachments/assets/a3894f6a-c58b-4244-a963-f4c5cb59d83d)
+
+For centre topic analysis above, we get 5 Horse Race topics (Topic 3, Topic 6, Topic 8, Topic 9 and Topic 10) against 4 IB topics (2,4,7,12)
+
+![DROITE_12](https://github.com/user-attachments/assets/79419f74-e387-4ca3-a68f-dd1b5ed73cab)
+
+For right wing topics analysis above, 5 HR Topics (2, 6, 7, 8 and 12) but 6 Issue Based Topics (1, 3, 5, 9, 10, 11)
+
+![GAUCHE_12](https://github.com/user-attachments/assets/32e9d908-9b94-4634-869e-78b517ee43c5)
+
+For left wing topics analysis above, We get 8 Horse Race topics (2, 3, 4, 6, 8, 10, 11, 12) and we get three issue based topics (1, 5, 7)
+
+
+
+
+However, great differences between newspapers can be noticed. It could be possible to argue that the HR/IB usage difference depends more on the newspapers themselves and their style of reporting than on the media alignment. Daily newspapers favour HR terms, as opposed to weekly releases (visible in **Results/Ratio HR on IB by newspaper**).  
 
 The ratio score HR / score IB is 2.56 for daily newspaper against 2.23 for hebdomadary news paper. This difference is also visible with the topic analysis on daily articles and weekly ones.
 
