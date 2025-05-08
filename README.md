@@ -1,18 +1,9 @@
-# SMA_final_project
 
-JUSTE SOME EXAMPLES OF USING :
-
-Final project SMA : Issue based articles and Horse race articles in the 2024 legislative elections
-
-
-Here we can find our main results 
-
-![DAILY_12](https://github.com/user-attachments/assets/bd789bd7-a914-44f7-a847-68e62befff58)
 
 
 # Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
 
-A research project for Social Media Analysis By Elina Baudier, Davide Ciuffini
+A research project for Social Media Analysis By Elina Baudier, Raphaël Caille,  Davide Ciuffini
 
 # Introduction
 
