@@ -12,7 +12,7 @@ Here we can find our main results
 
 # Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
 
-A research project for Social Media Analysis By Elina Baudier
+A research project for Social Media Analysis By Elina Baudier, Davide Ciuffini
 
 # Introduction
 
