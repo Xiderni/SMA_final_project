@@ -10,12 +10,11 @@ Here we can find our main results
 ![DAILY_12](https://github.com/user-attachments/assets/bd789bd7-a914-44f7-a847-68e62befff58)
 
 
-# Titre 1
+# Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
+
+
 
 # Introduction
-
-
-
 
 France's 2024 snap legislative elections garnered significant national and worldwide attention due to the rarity of the event, the risks at play and it's sudden 
 announcement that resulted in heightened political polarisation. The elections, which were prompted by President Emmanuel Macron's decision to dissolve the National Assembly, became the primary topic of contention in the nation's political climate, with competing perspectives erupting across all ideological parties (Chabal & Behrent, 2024).The election was a crucial turning point in modern French politics, a the election mainly revealed the increasing prominence of both far-left and far-right groups, particularly the newly formed Nouveau Front Populaire created to combat the extremism and dominance of the Rassemblement National (Ivaldi, 2024).  Given the topic's importance to both political science and media studies, our group has decided to study how French national media outlets from an array of political orientations framed the 2024 snap elections, paying particular attention to the popular use of strategic game framing.
