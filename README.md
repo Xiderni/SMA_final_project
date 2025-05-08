@@ -3,7 +3,7 @@
 
 # Framing the Race: Strategic Game Framing and Media attributed Polarization in the 2024 French Snap Elections
 
-A research project for Social Media Analysis By Elina Baudier, Raphaël Caille,  Davide Ciuffini
+A research project for Social Media Analysis By Elina Baudier, Raphaël Caille,  Davide Ciuffini, Emma De Montis, 
 
 # Introduction
 
